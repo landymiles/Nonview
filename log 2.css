@@ -1,0 +1,47 @@
+.ijk {
+    /* font-size: 100%;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+    margin-left: 180px;
+    margin-top: 10px;
+}
+hr{
+    color: red;
+}
+
+.poph{
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+    width: 400px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.iog{
+margin-bottom: 10px;
+}
+
+.poow{
+    margin-top: 10px;
+}
+
+.way{
+    display: flex;
+    text-align: center;
+}
+
+.kook{
+    width:20px;
+    height: 35px;
+}
